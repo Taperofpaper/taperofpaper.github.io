@@ -1,8 +1,18 @@
 # taperofpaper.github.io
-All about me! Projects, skills, experience, etc.
 
-TODO: 
-- Switch the % proficiency bars under skills to something that is less self-defeating
-- Link to my resume
-- Add Hack the North project
-- add the libraries/frameworks/tools I've used
+Welcome to my website! It's far from complete, but that's ok.
+
+Lists my skills and experience.
+
+Adapated from a template so I can learn how websites work.
+
+# TODO
+- Add the libraries/frameworks/tools I've used
+- Add a cool novelty to the beginning to make it stand out
+- Fix icon obfuscation when its being hovered over; it should NOT be obfuscated!
+- Add executive summary
+
+# Tools
+- JavaScript
+- HTML
+- CSS
